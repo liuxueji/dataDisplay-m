@@ -9,4 +9,4 @@
 6. Vue中使用vant库
 
 项目展示：
-![](https://liuxueji.oss-cn-guangzhou.aliyuncs.com/displayData.gif)
+![displayData](https://liuxueji.oss-cn-guangzhou.aliyuncs.com/displayData.gif)
